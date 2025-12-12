@@ -1,9 +1,15 @@
+<h3>
+ Hi!, I'm Brandon 👋
+</h3>
+
+_____________________
+
 <!--
  <h3>Hi, my name is Brandon Bautista</h3>
 <h5>
   I am a FullStack Software Developer.
 </h5>
-
+<!--
 <h5  align="center"> 🚀 &nbsp;My Tech Stacks <br></h5>
 
 <p align="center">
