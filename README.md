@@ -1,6 +1,9 @@
 <h2>
- Hi there!, I'm Brandon, Software Engineer. Former theoretical physicist. Lifelong black hole enthusiast.
+ Hi there!, I'm Brandon, Software Engineer. 
 </h2>
+<h4>
+ Former theoretical physicist. Lifelong black hole enthusiast.
+</h4>
 
 <p>
  I work as a Software Engineer @iTire, a growing startup in Mexico where we build techonology for fleet management and operations.
