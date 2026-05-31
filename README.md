@@ -1,7 +1,16 @@
-<h3>
- Hi!, I'm Brandon 👋
-</h3>
+<h2>
+ Hi there!, I'm Brandon, Software Engineer. Former theoretical physicist. Lifelong black hole enthusiast.
+</h2>
 
+<p>
+ I work as a Software Engineer @iTire, a growing startup in Mexico where we build techonology for fleet management and operations.
+ 
+ My background is in Theoretical Physics, where I spent several years learning General Relativity, mathematical physics, and the strange ways the universe behaves when gravity becomes extreme, by studying one of the most fascinating objects in the universe: black holes.
+
+Today I spend most of my time building backend services, mobile applications, designing software architecture and helping shape iTire's software platform from development to production. I particularly enjoy the challenge of building complex software systems.
+
+More recently, I've been diving into AI and machine learning, exploring how intelligent systems can be built, deployed, and integrated into real products.
+</p>
 _____________________
 
 <!--
